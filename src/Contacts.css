@@ -1,0 +1,21 @@
+.contacts{
+    flex: 0.2;
+    
+    margin-top: 15px;
+}
+.contacts__top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: gray;
+    margin-left: 10px;
+}
+.contacts__icon1{
+margin-right: 5px;
+border-radius: 50%;
+}
+.contacts__icon1:hover{
+background-color: lightgray;
+border-radius: 50%;
+}

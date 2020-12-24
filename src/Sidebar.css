@@ -1,0 +1,223 @@
+.sidebar{
+    flex: .2;
+   display: flex;
+   flex-direction: column;
+  margin-top: 14px;
+}
+.sidebar__profileInfo{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 10px;
+    height:52px;
+    margin: 7px;
+    margin-left: 14px;
+}
+.sidebar__profileInfo >h5{
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.sidebar__profileInfo:hover{
+    background-color: #e4e6e9;
+}
+.sidebar__covidInfo{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 10px;
+  height:52px;
+    margin: 3px;
+    margin-left: 14px;
+}
+.sidebar__covidInfo >h5{
+    margin-left: 10px;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+.sidebar__covidInfo:hover{
+    background-color: #e4e6e9;
+}
+.sidebar__pages{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+   align-items: center;
+   border-radius: 10px;
+   height:52px;
+   margin: 3px;
+   margin-left: 14px;
+}
+.sidebar__pages >h5{
+    margin-left: 10px;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+.sidebar__pages:hover{
+    background-color: #e4e6e9;
+}
+.sidebar__friends{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 10px;
+    height:52px;
+    margin: 3px;
+    margin-left: 14px;
+}
+.sidebar__friends >h5{
+    margin-left: 10px;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+.sidebar__friends:hover{
+    background-color: #e4e6e9;
+}
+.sidebar__groups{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 10px;
+    height:52px;
+    margin: 3px;
+    margin-left: 14px;
+}
+.sidebar__groups >h5{
+    margin-left: 10px;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+.sidebar__groups:hover{
+    background-color: #e4e6e9;
+}
+.sidebar__store{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 10px;
+    height:52px;
+    margin: 3px;
+    margin-left: 14px;
+}
+.sidebar__store >h5{
+    margin-left: 10px;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+.sidebar__store:hover{
+    background-color: #e4e6e9;
+}
+.sidebar__video{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 10px;
+    height:52px;
+    margin: 3px;
+    margin-left: 14px;
+}
+.sidebar__video >h5{
+    margin-left: 10px;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+.sidebar__video:hover{
+    background-color: #e4e6e9;
+}
+.sidebar__events{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 10px;
+    height:52px;
+    margin: 3px;
+    margin-left: 14px;
+}
+.sidebar__events >h5{
+    margin-left: 10px;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+.sidebar__events:hover{
+    background-color: #e4e6e9;
+}
+.sidebar__memories{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 10px;
+    height:52px;
+    margin: 3px;
+    margin-left: 14px;
+}
+.sidebar__memories >h5{
+    margin-left: 10px;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+.sidebar__memories:hover{
+    background-color: #e4e6e9;
+}
+.sidebar__more{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 10px;
+    height:52px;
+    margin: 3px;
+    margin-left: 14px;
+}
+.sidebar__more >h5{
+    margin-left: 10px;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+.sidebar__more:hover{
+    background-color: #e4e6e9;
+}
+
+.a{
+    color: rgba(171, 63, 197,0.7) !important;
+}
+.b{
+    color:#de5228 !important;
+}
+.c{
+    color: #209eef!important;
+}
+.d{
+    color: #209eef!important;
+}
+.e{
+    color: #209eef !important;
+}
+.f{
+    color: #dd314f !important;
+}
+.i{
+    color:white !important;
+    border-radius: 50% !important;
+    background-color:#209eef!important ;
+}
+.g{
+    color: #209eef !important;
+}
+.h{
+    background-color: lightgray;
+    border-radius: 50%;
+}
+
+.sidebar__video > h5 >p{
+    color: #209eef ;
+    font-size: 11px;
+    margin-top: -6px;
+}
