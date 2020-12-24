@@ -1,0 +1,28 @@
+.people{
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+   border-radius: 10px;
+   }
+   .people__dot{
+    height:10px !important;
+    width:10px !important;
+    color: rgb(5, 143, 5) !important;
+   margin-bottom: -10px !important;
+   }
+   .people__icon{
+       margin-left: 11px;
+       height:33px !important;
+       width:33px !important;
+       margin-right: -2.5px;
+       
+   }
+.people >p{
+    margin-left: 14px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.people:hover{
+background-color: lightgray;
+cursor: pointer;
+}

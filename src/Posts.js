@@ -1,11 +1,12 @@
 import React from 'react';
+import Story from './Story';
 import './Posts.css';
 function Posts() {
     return (
         <div className="posts">
-            <h1>Posts</h1>
+            <div className="posts__story"><Story/></div>
         </div>
     )
 }
 
-export default Posts
+export default Posts;

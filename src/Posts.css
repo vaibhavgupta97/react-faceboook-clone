@@ -1,3 +1,8 @@
 .posts{
     flex:0.6;
 }
+.posts__story{
+    margin-top: 40px;
+    margin-left:70px;
+    margin-right:70px;
+}
